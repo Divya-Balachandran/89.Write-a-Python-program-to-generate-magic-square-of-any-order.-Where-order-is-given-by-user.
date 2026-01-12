@@ -1,0 +1,1 @@
+# 89.Write-a-Python-program-to-generate-magic-square-of-any-order.-Where-order-is-given-by-user.
